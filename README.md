@@ -1,6 +1,4 @@
-- 🙋🏻‍♀️ Hi, I’m @UjasBanke !
-- 👀 I’m interested in Programming, designing, Web and App development!
-- 🌱 I’m currently in learning stage.
+- 🙋🏻‍♀️ Hi, I’m @UjasBanke 
 - 📫 ujasbanke@gmail.com
 - 🎓 B.TECH in computer science and engineering (expected graduation - 2027) 
 - 🌐 https://www.linkedin.com/in/ujasbanke/ 
